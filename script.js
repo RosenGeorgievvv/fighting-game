@@ -77,8 +77,8 @@ class Game {
   }
 }
 
-let player1 = new Player('Lance', 100, 15)
-let player2 = new Player('Qazi', 100, 15)
+let player1 = new Player('Todor', 100, 15)
+let player2 = new Player('Bozhidar', 100, 15)
 
 let p1 = player1
 let p2 = player2
